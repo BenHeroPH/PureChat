@@ -1,9 +1,9 @@
 name: PureChat
 main: _64FF00\PureChat\PureChat
 version: 2.0.2
-api: [4.0.0]
+api: [5.21.1]
 load: POSTWORLD
-author: [Vecnavium , 64FF00]
+author: [Vecnavium , 64FF00, BenHeroPH]
 depend: [PurePerms]
 softdepend: [FactionsPro, XeviousPE-Factions]
 commands:
